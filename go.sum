@@ -1,2 +1,4 @@
 github.com/alexpereap/dog v0.0.0-20250531182025-2277fdda70e8 h1:2I2g5occPrKOU2uVrOEx3t88AUgEVEWoquYp9Rry5FU=
 github.com/alexpereap/dog v0.0.0-20250531182025-2277fdda70e8/go.mod h1:fQdqzx+jqAIyADQMVxP4+pZeLqIhVDI7G3R5D0CWOLU=
+github.com/alexpereap/dog v1.0.0 h1:4nRfavIXft+3Q1PPoRqlF6ai90zY2J2kvWUao0oIliE=
+github.com/alexpereap/dog v1.0.0/go.mod h1:fQdqzx+jqAIyADQMVxP4+pZeLqIhVDI7G3R5D0CWOLU=

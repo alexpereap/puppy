@@ -19,3 +19,11 @@ func BigBark() string {
 func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
+
+func SmallBark() string {
+	return dog.WhenSmall(Bark())
+}
+
+func SmallBarks() string {
+	return dog.WhenSmall(Barks())
+}
